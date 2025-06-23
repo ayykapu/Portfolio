@@ -10,7 +10,7 @@
     {
         "title": "Cellular Automata C#",
         "tag": "C#",
-        "description": "Prosta platforma do wyświetlania kolejnych generacji automatów komórkowych (CA) w C# z wykorzystaniem biblioteki OpenTK.",
+        "description": "Prosta platforma do wyświetlania kolejnych generacji automatów komórkowych w C# z wykorzystaniem biblioteki OpenTK.",
         "image": "projects/CellularAutomataCS.gif",
         "source": "https://github.com/ayykapu/CellularAutomataCs",
         "sourcename": "GITHUB"
