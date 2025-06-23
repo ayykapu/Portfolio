@@ -36,7 +36,7 @@
         "tag": "C#",
         "description": "Konsolowa aplikacja do analizy punktów postaci przypisanych do konta League of Legends, wykorzystująca RiotAPI.",
         "image": "projects/ChampionProgressBar.gif",
-        "source": "https://github.com/ayykapu/RiotAPI",
+        "source": "https://github.com/ayykapu/LOLMasteryProgressBar",
         "sourcename": "GITHUB"
     },
     {
