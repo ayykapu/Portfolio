@@ -1,0 +1,82 @@
+[
+    {
+        "title": "Hideout Hustle [WIP]",
+        "tag": "Unity",
+        "description": "Proof of concept 2D top-down shootera inspirowanego grami Hotline Miami i Payday 2.",
+        "image": "projects/HideoutHustle.gif",
+        "source": "https://difficult-stem-5b8.notion.site/Hideout-Hustle-GDD-13213983f33a80dfbd23c1296589ec5e?pvs=143",
+        "sourcename": "PEŁNY GDD"
+    },
+    {
+        "title": "Cellular Automata C#",
+        "tag": "C#",
+        "description": "Prosta platforma do wyświetlania kolejnych generacji automatów komórkowych (CA) w C# z wykorzystaniem biblioteki OpenTK.",
+        "image": "projects/CellularAutomataCS.gif",
+        "source": "https://github.com/ayykapu/CellularAutomataCs",
+        "sourcename": "GITHUB"
+    },
+    {
+        "title": "Cellular Automata C++ [WIP]",
+        "tag": "C++",
+        "description": "Stabilniejsza wersja poprzedniego projektu, napisana w C++ z użyciem raylib. Planowany dalszy rozwój.",
+        "image": "projects/CellularAutomataCPP.gif",
+        "source": "https://github.com/ayykapu/CellularAutomataCpp",
+        "sourcename": "GITHUB"
+    },
+    {
+        "title": "Sorter [WIP]",
+        "tag": "C# XAML",
+        "description": "Aplikacja desktopowa ułatwiająca ręczne przenoszenie zdjęć do odpowiednich folderów. Planowany dalszy rozwój",
+        "image": "projects/Sorter.png",
+        "source": "https://github.com/ayykapu/Sorter",
+        "sourcename": "GITHUB"
+    },
+    {
+        "title": "Champion Progress Bar",
+        "tag": "C#",
+        "description": "Konsolowa aplikacja do analizy punktów postaci przypisanych do konta League of Legends, wykorzystująca RiotAPI.",
+        "image": "projects/ChampionProgressBar.gif",
+        "source": "https://github.com/ayykapu/RiotAPI",
+        "sourcename": "GITHUB"
+    },
+    {
+        "title": "Programy szyfrujące",
+        "tag": "C# XAML",
+        "description": "Zestaw prostych narzędzi do szyfrowania tekstu za pomocą algorytmów Cezara i Polibiusza.",
+        "image": "projects/Ciphers.gif",
+        "source": "https://github.com/ayykapu/Szyfry",
+        "sourcename": "GITHUB"
+    },
+    {
+        "title": "Strona-portfolio",
+        "tag": "HTML Js",
+        "description": "Strona internetowa w estetyce telegazety, umożliwiająca dynamiczne dodawanie projektów z pliku JSON oraz generowanie animowanego tła.",
+        "image": "projects/Page.png",
+        "source": "https://github.com/ayykapu/TeletextStyledPortfolio",
+        "sourcename": "GITHUB"
+    },
+    {
+        "title": "Kontener",
+        "tag": "Blender",
+        "description": "Render modelu 3D kontenera w stylu science fiction. Cały proces wykonany w Blenderze.",
+        "image": "projects/Container.gif"
+    },
+    {
+        "title": "Animacje 3D",
+        "tag": "Blender",
+        "description": "Kompilacja animacji 3D zrealizowanych w ramach projektów akademickich przy użyciu rigów w Blenderze.",
+        "image": "projects/3DAnimations.gif"
+    },
+    {
+        "title": "Modele 3D",
+        "tag": "Blender",
+        "description": "Kompilacja modeli i renderów 3D wykonanych w ramach projektów akademickich w Blenderze.",
+        "image": "projects/3DModels.gif"
+    },
+    {
+        "title": "Animacje 2D",
+        "tag": "Blender",
+        "description": "Zestaw prostych, cyklicznych animacji 2D zrealizowanych w Blenderze w ramach projektów akademickich.",
+        "image": "projects/2DAnimations.gif"
+    }
+]

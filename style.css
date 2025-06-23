@@ -1,0 +1,169 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'VT323', monospace;
+    line-height: 1.6;
+    background-color: blue;
+    overflow-x: hidden;
+    color: white;
+}
+
+.topsection,
+.bottomsection {
+    border: 1vw solid black;
+}
+
+.mainbanner picture,
+.mainbanner img {
+    display: block;
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+    object-fit: cover;
+    background-color: black;
+}
+
+.navbar {
+        align-items: center;
+}
+
+.mainbanner img {
+    padding-top: 5vh;
+}
+
+.navlist {
+    display: flex;
+    flex-direction: column;
+    height: 30vh;
+    background-color: black;
+    align-items: center;
+    position: relative;
+    font-family: 'VT323';
+}
+
+.navheader {
+    position: absolute;
+    top: 2.5vh;
+    background-color: black;
+    color: white;
+    padding: 0 2vw;
+    font-size: 1.5vw;
+    font-family: 'VT323';
+    z-index: 1;
+}
+
+ul {
+    margin: 5vh auto 0 auto;
+    height: 20vh;
+    border: 0.3vw solid white;
+    padding-top: 1vh;
+    padding-left: 1vh;
+    padding-right: 1vh;
+    display: grid;
+    grid-auto-flow: column;
+    grid-template-rows: repeat(4, auto);
+    column-gap: 1vw;
+    position: relative;
+}
+
+li {
+    font-size: 1.3vw;
+    font-family: 'VT323';
+    cursor: pointer;
+    color: aqua;
+    list-style-type: none;
+}
+
+.projecttag {
+    color: yellow;
+}
+
+.projecttitle {
+    color: limegreen;
+}
+
+.picsone {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+    width: auto;
+    height: 30vh;
+    background-color: blue;
+    overflow: hidden;
+}
+
+.picstwo,
+.picsthree {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 20vw;
+    overflow: hidden;
+    justify-content: space-between;
+}
+
+.picture img {
+  height: 25vh;  /* możesz dopasować proporcje */
+  width: auto;   /* lub inna konkretna wartość */
+  object-fit: contain; /* dopasowuje obraz bez deformacji */
+}
+
+.bottomsection {
+    display: flex;
+    flex-wrap: nowrap;
+}
+
+.content {
+    background-color: black;
+    padding-top: 3vh;
+    width: 60vw;
+}
+
+.project {
+    display: flex;
+    align-items: center;
+    gap: 3vw;
+    padding-bottom: 2vh;
+    height: 30vh;
+}
+
+.image-section {
+    margin-left: -5vw;
+    display: flex;
+    align-items: center;
+    height: 100%;
+}
+
+.image-section img {
+    border: 0.3vw solid blue;
+    height: 25vh;
+    width: auto;
+    object-fit: contain;
+}
+
+.text-section {
+    border: 0.25vw dashed limegreen;
+    min-height: 20vh;
+    min-width: inherit;
+    text-align: justify;
+    line-clamp: 3;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 3;  
+    overflow: hidden;
+    margin-right: 4vw;
+    padding: 0.3vw 1vw;
+    word-wrap: break-word;
+    font-size: 1.3vw;
+    display: block;  
+}
+
+
+.text-section h2 {
+    margin-bottom: 0.5vw;
+}

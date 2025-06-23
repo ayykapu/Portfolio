@@ -1,0 +1,39 @@
+[
+    {
+        "picsone": [
+            "assets/sun.png",
+            "assets/clouds.png",
+            "assets/clouds2.png",
+            "assets/clouds3.png"
+        ],
+        "picsoneinfo": [
+            "-4vh -85vw",
+            "-20vh -10vw",
+            "-10vh 80vw",
+            "-20vh 5vw"
+        ]
+    },
+    {
+        "picsrest": [
+            "assets/blackmesalogo.png",
+            "assets/aperturelogo.png",
+            "assets/tech.png",
+            "assets/tech2.png",
+            "assets/cd.png",
+            "assets/cd2.png",
+            "assets/cd3.png",
+            "assets/globe.png",
+            "assets/radar.png",
+            "assets/radar2.png",
+            "assets/brain.png",
+            "assets/brain2.png",
+            "assets/skull.png",
+            "assets/skull2.png",
+            "assets/alien.png",
+            "assets/alien2.png",
+            "assets/alien3.png",
+            "assets/grid.png",
+            "assets/grid2.png"
+        ]
+    }
+]
