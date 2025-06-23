@@ -108,9 +108,9 @@ li {
 }
 
 .picture img {
-  height: 25vh;  /* możesz dopasować proporcje */
-  width: auto;   /* lub inna konkretna wartość */
-  object-fit: contain; /* dopasowuje obraz bez deformacji */
+  height: 25vh;
+  width: auto;
+  object-fit: contain;
 }
 
 .bottomsection {
