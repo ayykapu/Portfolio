@@ -18,15 +18,15 @@
   {
     "title": "Artifacting",
     "tag": "Unity",
-    "description": "Proof of concept 2D top-down shootera inspirowanego Hotline Miami i PAYDAY 2.",
+    "description": "Proof of concept gry typu 2D top-down shooter inspirowanej Hotline Miami i PAYDAY 2.",
     "image": "projects/HideoutHustle.gif",
     "source": "https://www.youtube.com/watch?v=LiC5BpE9snw",
     "sourcename": "DEMO [YT]"
   },
   {
-    "title": "Heist level",
+    "title": "Heist Level",
     "tag": "Unity",
-    "description": "Koncept poziomu do gry 3D inspirowanej grą PAYDAY 2.",
+    "description": "Koncept poziomu do gry 3D inspirowanej grą PAYDAY 2, zawiera Golden Path, Easy Path i Hard Path.",
     "image": "projects/HeistLevel.gif",
     "source": "https://www.youtube.com/watch?v=PttGqYon8cA",
     "sourcename": "DEMO [YT]"
