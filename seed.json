@@ -72,17 +72,5 @@
     "tag": "Blender",
     "description": "Kompilacja animacji 3D zrealizowanych w ramach projektów akademickich przy użyciu rigów w Blenderze.",
     "image": "projects/3DAnimations.gif"
-  },
-  {
-    "title": "Modele 3D",
-    "tag": "Blender",
-    "description": "Kompilacja modeli i renderów 3D wykonanych w ramach projektów akademickich w Blenderze.",
-    "image": "projects/3DModels.gif"
-  },
-  {
-    "title": "Animacje 2D",
-    "tag": "Blender",
-    "description": "Zestaw prostych, cyklicznych animacji 2D zrealizowanych w Blenderze w ramach projektów akademickich.",
-    "image": "projects/2DAnimations.gif"
   }
 ]
