@@ -72,5 +72,13 @@
     "tag": "Blender",
     "description": "Kompilacja animacji 3D zrealizowanych w ramach projektów akademickich przy użyciu rigów w Blenderze.",
     "image": "projects/3DAnimations.gif"
-  }
+  },
+  {
+  "title": "Strona portfolio",
+  "tag": "HTML Js",
+  "description": "Strona internetowa w estetyce telegazety, umożliwiająca dynamiczne dodawanie projektów z pliku JSON oraz generowanie animowanego tła.",
+  "image": "projects/Page.png",
+  "source": "https://github.com/ayykapu/TeletextStyledPortfolio",
+  "sourcename": "GITHUB"
+}
 ]
