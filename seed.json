@@ -2,7 +2,7 @@
   {
     "title": "HeadCannon",
     "tag": "Unity",
-    "description": "Praca zespołowa, role: programista (enemy AI, save, gameplay), QA, game designer.",
+    "description": "Praca zespołowa, role: programista (enemy AI, system zapisu, gameplay), QA, game designer.",
     "image": "projects/HeadCannon.gif",
     "source": "https://youtu.be/QnJzFg8zT5I?t=2224",
     "sourcename": "Gala finałowa [YT; 37:01]"
@@ -34,7 +34,7 @@
   {
     "title": "Cellular Automata C#",
     "tag": "C#",
-    "description": "Prosta platforma do wyświetlania kolejnych generacji automatów komórkowych w C# z wykorzystaniem biblioteki OpenTK.",
+    "description": "Prosta platforma do wizualizacji kolejnych generacji automatów komórkowych w C# z wykorzystaniem biblioteki OpenTK.",
     "image": "projects/CellularAutomataCS.gif",
     "source": "https://www.youtube.com/watch?v=LiC5BpE9snw",
     "sourcename": "GITHUB"
@@ -50,7 +50,7 @@
   {
     "title": "Champion Progress Bar",
     "tag": "C#",
-    "description": "Konsolowa aplikacja do analizy punktów postaci przypisanych do konta League of Legends, wykorzystująca RiotAPI.",
+    "description": "Konsolowa aplikacja do analizy punktów postaci przypisanych do konta League of Legends z wykorzystaniem RiotAPI.",
     "image": "projects/ChampionProgressBar.gif",
     "source": "https://github.com/ayykapu/LOLMasteryProgressBar",
     "sourcename": "GITHUB"
@@ -58,13 +58,13 @@
   {
     "title": "Kontener",
     "tag": "Blender",
-    "description": "Render modelu 3D kontenera w stylu science fiction. Cały proces wykonany w Blenderze.",
+    "description": "Render modelu 3D kontenera w stylu science fiction. Cały proces został wykonany w Blenderze.",
     "image": "projects/Container.gif"
   },
   {
     "title": "Prosta cutscenka w Unity",
     "tag": "Unity",
-    "description": "Sekwencja insprowana serialem \"Severence\", projekt akademicki.",
+    "description": "Sekwencja inspirowana serialem \"Severance\", projekt akademicki.",
     "image": "projects/Run.gif"
   },
   {
