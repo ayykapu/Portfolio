@@ -56,14 +56,6 @@
     "sourcename": "GITHUB"
   },
   {
-    "title": "Strona-portfolio",
-    "tag": "HTML Js",
-    "description": "Strona internetowa w estetyce telegazety, umożliwiająca dynamiczne dodawanie projektów z pliku JSON oraz generowanie animowanego tła.",
-    "image": "projects/Page.png",
-    "source": "https://github.com/ayykapu/TeletextStyledPortfolio",
-    "sourcename": "GITHUB"
-  },
-  {
     "title": "Kontener",
     "tag": "Blender",
     "description": "Render modelu 3D kontenera w stylu science fiction. Cały proces wykonany w Blenderze.",
