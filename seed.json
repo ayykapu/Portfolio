@@ -10,7 +10,7 @@
   {
     "title": "Salvage Shop Simulator",
     "tag": "Unity",
-    "description": "Praca komercyjna, role: programista (gameplay, UI).",
+    "description": "Praca komercyjna, rola: programista (gameplay - system spawnu obiektów na mapie, UI).",
     "image": "projects/Salvage.gif",
     "source": "https://store.steampowered.com/app/3555500/Salvage_Shop_Simulator/",
     "sourcename": "Steam"
@@ -36,7 +36,7 @@
     "tag": "C#",
     "description": "Prosta platforma do wizualizacji kolejnych generacji automatów komórkowych w C# z wykorzystaniem biblioteki OpenTK.",
     "image": "projects/CellularAutomataCS.gif",
-    "source": "https://www.youtube.com/watch?v=LiC5BpE9snw",
+    "source": "https://github.com/ayykapu/CellularAutomataCs",
     "sourcename": "GITHUB"
   },
   {
@@ -64,7 +64,7 @@
   {
     "title": "Prosta cutscenka w Unity",
     "tag": "Unity",
-    "description": "Sekwencja inspirowana serialem \"Severance\", projekt akademicki.",
+    "description": "Sekwencja inspirowana serialem \"Severance\", projekt akademicki, wykonana z wykorzystaniem assetów z Unity Store oraz Maximo.",
     "image": "projects/Run.gif"
   },
   {
